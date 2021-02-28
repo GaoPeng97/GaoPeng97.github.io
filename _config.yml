@@ -3,12 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: Penk Blog
 subtitle: ''
-description: ''
+description: '玻璃晴朗，橘子辉煌'
 keywords:
-author: John Doe
-language: en
+author: penkgao
+language: zh
 timezone: ''
 
 # URL
@@ -98,7 +98,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: next
+theme: Butterfly
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
