@@ -2,8 +2,8 @@
 title: 人类简史读后感
 date: 2021-03-01 23:12:03
 tags: ["读书笔记"]
-top_img: https://img2.doubanio.com/view/subject/l/public/s27814883.jpg
-cover: https://img2.doubanio.com/view/subject/l/public/s27814883.jpg
+top_img: https://i.loli.net/2021/04/11/V5NZfnX6biI8Epk.jpg
+cover: https://i.loli.net/2021/04/11/V5NZfnX6biI8Epk.jpg
 katex: true
 description: 人类简史读后感
 ---
